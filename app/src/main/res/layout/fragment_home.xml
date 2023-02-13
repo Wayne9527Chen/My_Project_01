@@ -9,7 +9,6 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-
         android:fillViewport="true">
 
         <LinearLayout
@@ -20,26 +19,38 @@
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
             <ImageView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
+                android:scaleType="fitStart"
+                android:adjustViewBounds="true"
                 app:srcCompat="@drawable/girl_model" />
         </LinearLayout>
     </ScrollView>
